@@ -1,0 +1,13 @@
+C:\Users\sleeper\Desktop\CS 234N C#\repos\Lab2\CustomerMaintenanceInterfaces\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Users\sleeper\Desktop\CS 234N C#\repos\Lab2\CustomerMaintenanceInterfaces\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Users\sleeper\Desktop\CS 234N C#\repos\Lab2\CustomerMaintenanceInterfaces\CustomerMaintenance\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Users\sleeper\Desktop\CS 234N C#\repos\Lab2\CustomerMaintenanceInterfaces\CustomerMaintenance\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\sleeper\Desktop\CS 234N C#\repos\Lab2\CustomerMaintenanceInterfaces\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\sleeper\Desktop\CS 234N C#\repos\Lab2\CustomerMaintenanceInterfaces\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\sleeper\Desktop\CS 234N C#\repos\Lab2\CustomerMaintenanceInterfaces\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCloneCustomer.resources
+C:\Users\sleeper\Desktop\CS 234N C#\repos\Lab2\CustomerMaintenanceInterfaces\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Users\sleeper\Desktop\CS 234N C#\repos\Lab2\CustomerMaintenanceInterfaces\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\sleeper\Desktop\CS 234N C#\repos\Lab2\CustomerMaintenanceInterfaces\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+C:\Users\sleeper\Desktop\CS 234N C#\repos\Lab2\CustomerMaintenanceInterfaces\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\sleeper\Desktop\CS 234N C#\repos\Lab2\CustomerMaintenanceInterfaces\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Users\sleeper\Desktop\CS 234N C#\repos\Lab2\CustomerMaintenanceInterfaces\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb

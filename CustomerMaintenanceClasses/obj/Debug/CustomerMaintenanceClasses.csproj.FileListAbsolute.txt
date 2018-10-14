@@ -1,0 +1,6 @@
+C:\Users\sleeper\Desktop\CS 234N C#\repos\Lab2\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Users\sleeper\Desktop\CS 234N C#\repos\Lab2\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\sleeper\Desktop\CS 234N C#\repos\Lab2\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.csproj.CoreCompileInputs.cache
+C:\Users\sleeper\Desktop\CS 234N C#\repos\Lab2\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.dll
+C:\Users\sleeper\Desktop\CS 234N C#\repos\Lab2\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\sleeper\Desktop\CS 234N C#\repos\Lab2\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.csprojResolveAssemblyReference.cache
